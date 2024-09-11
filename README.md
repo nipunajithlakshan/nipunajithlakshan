@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=K4viyamato&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nipunajithlakshan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
