@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **java**
 
-- 📫 How to reach me **nipunajith235@gmail.com**
+- 📫 How to reach me **nipunajith@aventure.lk**
 
 - ⚡ Fun fact **Laka**
 
