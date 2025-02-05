@@ -18,10 +18,10 @@
 <a href="https://instagram.com/nipunajith lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nipunajith lakshan" height="30" width="40" /></a>
 </p>
 
-[<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nipunajithlakshan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>](https://streak-stats.demolab.com?user=nipunajithlakshan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3
-)
+<div align="center">
+  <img src="[https://streak-stats.demolab.com?user=nipunajithlakshan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph](https://streak-stats.demolab.com?user=nipunajithlakshan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3
+)" />
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
