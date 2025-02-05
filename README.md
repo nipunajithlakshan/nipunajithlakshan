@@ -19,7 +19,7 @@
 </p>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunajithlakshan&theme=dark" height="220" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipunajithlakshan&" alt="nipunajithlakshan" />
 </div>
 
 
