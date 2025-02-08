@@ -18,8 +18,8 @@
 <a href="https://instagram.com/nipunajith lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nipunajith lakshan" height="30" width="40" /></a>
 </p>
 
-<div style="text-align: center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipunajithlakshan&" alt="nipunajithlakshan" />
+<div style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipunajithlakshan&theme=dark" alt="GitHub Streak Stats" style="display: block; margin: auto;" />
 </div>
 
 
